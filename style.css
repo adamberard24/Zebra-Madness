@@ -1,3 +1,15 @@
 body {
     background-color: grey;
 }
+
+a:link {
+    color: blue;
+  }
+  
+  a:visited {
+    color: purple;
+  } 
+
+  img {
+    border-radius: 50%;
+  }
